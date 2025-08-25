@@ -52,7 +52,7 @@ O estudo teve como objetivo identificar as **principais competências técnicas 
 
 ## 📥 Como acessar
 👉 Baixe o relatório completo em PDF:  
-[Relatorio_Fullstack_Junior_2025_JoseLuiz.pdf](./Relatorio_Fullstack_Junior_2025_JoseLuiz.pdf)
+https://github.com/joseluizs/fullstack-junior-2025-analysis/blob/main/Relatorio_Fullstack_Junior_2025_JoseLuiz.pdf
 
 ---
 
