@@ -58,7 +58,7 @@ https://github.com/joseluizs/fullstack-junior-2025-analysis/blob/main/Relatorio_
 
 ## 📢 Post no LinkedIn
 Confira também o resumo publicado no LinkedIn com os principais insights da análise:  
-🔗 [Link para a postagem no LinkedIn](#) *(substitua pelo link da sua postagem)*
+🔗 https://www.linkedin.com/posts/joseluizs_github-joseluizsfullstack-junior-2025-activity-7365756734721638403-5qUh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAUCtv4BNDHqi1D18k-N9EWmugxWzIIq9wQ
 
 ---
 
